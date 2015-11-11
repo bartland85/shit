@@ -1,3 +1,3 @@
-moja fajna stronka
+<p>moja fajna stronka</p>
 
-Bart
+<p>Bart</p>
