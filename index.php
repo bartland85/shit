@@ -1,3 +1,3 @@
-moja fajna stEronka
+moja fajna stronka
 
 Bart
