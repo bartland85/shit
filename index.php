@@ -8,6 +8,6 @@
     <body>
         <p>moja fajna stronka</p>
 
-        <p>Bart Barto</p>
+        <p>Bart</p>
     </body>
 </html>
