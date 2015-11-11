@@ -1,0 +1,1 @@
+moja fajna stEronka
