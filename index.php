@@ -200,4 +200,8 @@ class Car extends Toy
     function play(){}
 }
 
+
 /* jakies pierdoloty ajajaj */
+
+/*haha*/
+
