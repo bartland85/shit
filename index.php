@@ -200,5 +200,11 @@ class Car extends Toy
     function play(){}
 }
 
+
+
+
 /* jakies pierdoloty ajajaj */
+//adsdaas dsads
 // papapasss
+/*haha*/
+
